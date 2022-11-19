@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Safe
+  - Bed
+  - Door
+  - Drw 1
+  - Drw 2
+  - Drw 3
+  - Table
+  - Trash bin
+  - DeskBox1
+  - DeskBox2
+  - DeskBox3
+  - DeskBox4
+  - DeskBox5
+  - DeskBox6
+  - DeskBox7
+  - DeskBox8
+  - DeskBox9
+  - PictureFrame
+  - Suitcase
+  - Gun
+  - Board
+  - Clock
+  - CreepyToy
+  - Lamp
+  - Letter
+  - DVRPlayer
+  - Remote
+  - Poster
+  - Chair 1
+  - Chair 2
+  - LetterOpener
+  - TeddyBear
+  - Fork
+  - Key
+  - Books 1
+  - Books 2
+  - CloseInventory
+  - InventoryLetterOpener
+  - InventoryLetter
+  - InventoryFork
+  - InventoryGun
+  - InventoryKey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
